@@ -104,7 +104,7 @@ wt[0]=0;
 		for(i=0;i<n;i++)
 	{
 		
-		priority==int[wt/ert]+1;
+		//priority==int[wt/ert]+1;
 	}
 
 	printf("\nthe copmputed priority=%d",priority);
